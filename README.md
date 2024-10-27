@@ -1,4 +1,4 @@
-# Modelo de Previsao de Custo de Retrabalho (Projeto em desenvolvimento)
+# Modelo de Previsao de Custo de Retrabalho (projeto em desenvolvimento)
 
 **O objetivo é:** Entender quais os custos que envolvem o retrabalho e calcular o montante total.
 
