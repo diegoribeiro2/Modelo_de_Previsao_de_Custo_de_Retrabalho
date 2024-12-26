@@ -1,4 +1,4 @@
-# Modelo de Previsão de Custo de Retrabalho (projeto em desenvolvimento)  
+# Modelo de Previsão de Custo de Retrabalho
 
 ## 1.1 Objetivo do Negócio  
 
