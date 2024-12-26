@@ -63,7 +63,7 @@ Essas métricas permitirão alinhar as estratégias de negócios com as demandas
 
 ### Ferramentas e Tecnologias:  
 
-- **Ferramentas de análise:** Python (Pandas, Numpy, Scikit-learn), Excel, Power BI.  
+- **Ferramentas de análise:** Excel, Power BI.  
 - **Técnicas de mineração:** Análise exploratória, modelagem preditiva e visualização de dados.  
 - **Plataformas:** Material disponibilizado pela empresa e acesso a dados de mercado.  
 
